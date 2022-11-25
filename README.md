@@ -6,3 +6,5 @@ Group 20:
 1.Hariharan S - 12218804
 2.Amartya Kaushik - 12218153
 3.Yarra Sai Phanindra Bhargav
+
+SECTION : KOC34
